@@ -1,0 +1,7 @@
+PUSH 6
+PUSH 6
+ADD
+
+L1:
+PRINT "sum"
+HALT
